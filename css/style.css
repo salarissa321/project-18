@@ -1,0 +1,100 @@
+
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.mydiv{
+
+}
+
+.mynav{
+
+}
+
+
+.mycontainer{
+
+}
+
+.navbar-brand{
+font-weight: 600;
+font-size: 50px;
+}
+
+
+.mylink{
+    color: #0d1820;
+margin-right: 15px;
+margin-left: 15px;
+ margin-left: 20px;
+}
+
+.mybutton{
+margin: 10px;
+color: black;
+text-decoration: none;
+}
+
+.mybtn{
+    border-radius: 50px;
+    color: #ffffff;
+position: relative;
+background-color: #10C31A;
+z-index: 1;
+padding: 10px 30px 10px 30px;
+text-decoration: none;
+}
+
+.myschrift{ 
+font-weight: 600;
+font-size: 18px;
+margin-bottom: 7px;
+padding-bottom: 7px;
+color: #15D09A;
+}
+
+.myschreiben{
+    line-height: 1.3;
+    font-family: "Montserrat", sans-serif;
+    color: #0d1820;
+    font-weight: 700;
+font-size: 50px;
+margin-bottom: 0;
+}
+
+.mypara{
+    margin-top: 5px;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.myimg{
+    width: 100%;
+}
+
+.myh3{
+    font-size: 19px;
+    font-weight: 700;
+font-size: 20px;
+margin-bottom: 15px;
+line-height: 1.3;
+font-family: "Montserrat", sans-serif;
+color: #0d1820;
+}
+
+.myparagraf{
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: #777777;
+    font-size: 18px;
+}
+
+.mybanner{
+margin-left: 150px;
+text-decoration: none;
+color: #15D09A;
+}
+
